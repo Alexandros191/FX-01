@@ -31,21 +31,3 @@ FX-01 is a Xcode developed application for IOS devices for monitoring live up to
 
 I opted to utilize Xcode as the development platform for my cryptocurrency analysis application due to its unparalleled features and benefits. Having worked with Xcode extensively on previous projects, I can attest to its robustness, reliability, and proficiency in the realm of iOS app development. One of the most notable advantages of Xcode is its built-in simulator, which facilitates efficient app testing on a virtual iOS device before actual deployment, resulting in faster iteration and debugging cycles. Furthermore, Xcode's capacity to inject the app into a real iPhone for testing ensures seamless performance on a real device, boosting the app's overall user experience. In essence, Xcode provides a highly conducive and sophisticated development environment that enables me to deliver a top-of-the-line cryptocurrency analysis app on iOS platforms.
 
-
-This software uses the following open source packages:
-
-- [ECDSA](https://www.npmjs.com/package/ecdsa)
-- [Node.js](https://nodejs.org/en)
-- [Concurrently](https://www.npmjs.com/package/concurrently)
-- [IPFS](https://web3.storage/)
-- [Crypto.js](https://www.npmjs.com/package/crypto-js)
-- [Process](https://www.npmjs.com/package/process)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Minimist](https://www.npmjs.com/package/minimist)
-- [Elliptic](https://www.npmjs.com/package/elliptic)
-- [Express](https://www.npmjs.com/package/express)
-- [Chokidar](https://www.npmjs.com/package/chokidar)
-- [Readline](https://www.npmjs.com/package/readline)
-  
-
-
